@@ -6,6 +6,8 @@ variable against any other, and imports Tecplot layouts.
 
 This repository holds the downloads. Get the latest from the [Releases](../../releases/latest) page.
 
+![Pressure coefficient on a sphere and a slice plane, in 3-D](images/view3d.png)
+
 | Contours on a 2-D field | XY Line plot |
 |---|---|
 | ![Pressure coefficient around a cylinder](images/contour.png) | ![Exact and computed pressure coefficient](images/xyplot.png) |
